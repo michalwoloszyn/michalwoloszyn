@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michal Woloszyn</h1>
 <h3 align="center">Full-stack engineer & cybersecurity enthusiast. Addicted to getting better every day. 😎</h3>
-
+<img aling="right" alt="Coding" width="400" src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif">
 - 🌱 I’m currently learning for **CompTIA Network+**
 
 - 👨‍💻 My portfolio is available at [michalwoloszyn.com](michalwoloszyn.com)
