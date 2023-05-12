@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michal Woloszyn</h1>
 <h3 align="center">Full-stack engineer & cybersecurity enthusiast. Addicted to getting better every day. 😎</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pwc.com/content/dam/pwc/mt/en/services/cyber-security/cyber-attack-.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 - 🌱 I’m currently learning for **CompTIA Network+**
 
