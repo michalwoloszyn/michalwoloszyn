@@ -2,12 +2,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <h1 align="center">Hi 👋, I'm Michal Woloszyn</h1>
 
-<h3 align="center">Full-stack engineer & cybersecurity enthusiast. Addicted to getting better every day. 😎</h3>
+<h3 align="center">Software engineer. Addicted to getting better every day. 😎</h3>
 
-
-- 🌱 I’m currently learning for **CompTIA Network+**
-
-- 👨‍💻 My portfolio is available at [michalwoloszyn.com](michalwoloszyn.com)
 
 - 💬 Ask me about **anything you want 😁**
 
