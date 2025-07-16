@@ -1,4 +1,4 @@
-[![MasterHead](https://r2metrics.com/wp-content/uploads/2015/09/banner-custom-programming-financial-applications-alm-products-services.jpg)](michalwoloszyn.com)
+
 
 <h1 align="center">Hi 👋, I'm Michal Woloszyn</h1>
 
