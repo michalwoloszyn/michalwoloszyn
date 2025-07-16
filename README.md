@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <h1 align="center">Hi 👋, I'm Michal Woloszyn</h1>
 
-<h3 align="center">Software engineer. Addicted to getting better every day. 😎</h3>
+<h3 align="center">Software engineer.</h3>
 
 
 - 💬 Ask me about **anything you want 😁**
